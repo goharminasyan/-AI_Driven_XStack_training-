@@ -1,0 +1,22 @@
+From 9a79131e557d6bb6d760086080d77ae33eb63cc6 Mon Sep 17 00:00:00 2001
+From: Gohar Minasyan <goharminasyan80@gmail.com>
+Date: Sun, 8 Oct 2023 20:47:34 +0400
+Subject: [PATCH] add 2 lines
+
+---
+ firstFile.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 2fb6a73..f1b348e 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -8,3 +8,5 @@ add line 7
+ add line 8 
+ add line 9
+ and final add line 10
++1
++2
+-- 
+2.38.1.windows.1
+
