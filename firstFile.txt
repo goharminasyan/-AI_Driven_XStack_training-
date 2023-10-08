@@ -10,5 +10,3 @@ add line 9
 and final add line 10
 1
 2
-other 1
-other 2
